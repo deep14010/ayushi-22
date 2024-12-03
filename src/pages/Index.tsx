@@ -31,7 +31,7 @@ const Index = () => {
           className="mb-16"
         >
           <img
-            src="/ayushi-collage.png"
+            src="https://deep14010.github.io/ayushi-22/ayushi-collage.png"
             alt="Birthday celebration"
             className="w-full h-[650px] object-cover rounded-xl shadow-lg"
           />

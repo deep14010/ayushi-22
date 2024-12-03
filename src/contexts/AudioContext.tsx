@@ -28,7 +28,7 @@ export function AudioProvider({ children }: { children: React.ReactNode }) {
   return (
     <AudioContext.Provider value={{ isPlaying, togglePlay }}>
       {children}
-      <audio ref={audioRef} src="/22.mp3" />
+      <audio ref={audioRef} src="https://deep14010.github.io/ayushi-22/22.mp3" />
     </AudioContext.Provider>
   );
 }
